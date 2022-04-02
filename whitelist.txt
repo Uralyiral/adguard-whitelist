@@ -1,4 +1,4 @@
-sjva.me
+*.sjva.me
 *.knjnet.com
 adcr.naver.com
 clien.net

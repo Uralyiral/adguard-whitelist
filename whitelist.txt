@@ -4,3 +4,4 @@ adcr.naver.com
 clien.net
 *.kt.com
 *.samsungfire.com
+*.thingiverse.com

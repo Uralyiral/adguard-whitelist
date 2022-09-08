@@ -5,4 +5,3 @@ clien.net
 *.kt.com
 *.samsungfire.com
 *.thingiverse.com
-*.googleadservices.com

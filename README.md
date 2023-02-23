@@ -1,2 +1,2 @@
 # adguard-whitelist
-For docker adguard home whitelist
+Adguardhome 한국 화이트리스트

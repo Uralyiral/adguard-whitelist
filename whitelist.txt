@@ -1,4 +1,3 @@
-*.knjnet.com
 adcr.naver.com
 clien.net
 *.kt.com
